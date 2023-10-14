@@ -5,7 +5,6 @@ This repository contains a list of React tasks and projects displayed in a table
 ## Project Structure
 
 - `index.html`: The HTML file that displays the React Task List.
-- `style` folder: Contains the CSS file for styling the project.
 
 ## Running the Project
 
